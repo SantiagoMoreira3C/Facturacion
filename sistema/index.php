@@ -11,11 +11,11 @@
 			
 			<h1>Sistema Facturación</h1>
 			<div class="optionsBar">
-				<p>Guatemala, 20 noviembre de 2017</p>
+				<p>Ecuador, 02 enero de 2021</p>
 				<span>|</span>
-				<span class="user">Julio Estrada</span>
+				<span class="user">Admin</span>
 				<img class="photouser" src="img/user.png" alt="Usuario">
-				<a href="#"><img class="close" src="img/salir.png" alt="Salir del sistema" title="Salir"></a>
+				<a href="salir.php"><img class="close" src="img/salir.png" alt="Salir del sistema" title="Salir"></a>
 			</div>
 		</div>
 		<nav>
